@@ -1,0 +1,41 @@
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.exe.config
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.exe
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.pdb
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.xml
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\UJGrid.dll
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\UJGrid.pdb
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.vbprojResolveAssemblyReference.cache
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate_extreme_poverty.frmEradicateExtremePoverty.resources
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate_extreme_poverty.Resources.resources
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.vbproj.GenerateResource.Cache
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.exe
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.xml
+C:\Users\t gabela\Documents\Scool.edu\Informatics\IFM 1B01\Practicals\Practical 9\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.pdb
+F:\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.exe.config
+F:\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.exe
+F:\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.xml
+F:\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.pdb
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.exe.config
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.exe
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.xml
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.pdb
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.exe
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.pdb
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.xml
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\UJGrid.pdb
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.vbprojResolveAssemblyReference.cache
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate_extreme_poverty.frmEradicateExtremePoverty.resources
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate_extreme_poverty.Resources.resources
+C:\Users\Thina\Desktop\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.vbproj.GenerateResource.Cache
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.exe.config
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.exe
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.xml
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.pdb
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.exe
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.pdb
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\Eradicate extreme poverty.xml
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\bin\Debug\UJGrid.pdb
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.vbprojResolveAssemblyReference.cache
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate_extreme_poverty.frmEradicateExtremePoverty.resources
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate_extreme_poverty.Resources.resources
+C:\Users\General\Downloads\Eradicate_extreme_poverty\Eradicate extreme poverty\Eradicate extreme poverty\obj\Debug\Eradicate extreme poverty.vbproj.GenerateResource.Cache

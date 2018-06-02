@@ -1,0 +1,12 @@
+
+HELLO THERE!  I am Tavin
+
+You can run this app in two ways....
+
+1. You can use the .jar file named "Health Assesment" to run the app if you have java sdk installed in your machine.
+	a. Firstly go to the directory where the file is saved
+	b. Open the cmd within this directory
+	c. Run this command "java -jar Health Assesment.jar"
+	d. Enjoy.....
+
+2. Alternatively import all the system files to eclipse and run it....
